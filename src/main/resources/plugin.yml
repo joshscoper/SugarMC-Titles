@@ -1,0 +1,7 @@
+name: Titles
+version: '${project.version}'
+main: net.joshscoper.sugarmc.Main
+api-version: 1.19
+prefix: Titles
+authors: [ joshscoper ]
+description: A titles plugin

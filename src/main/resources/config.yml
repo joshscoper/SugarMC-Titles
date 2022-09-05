@@ -1,0 +1,11 @@
+# SugarMC Titles #
+Settings:
+  Enabled: true
+  Menu:
+    Iventory_Title: "&b&lTitles"
+    Locked:
+      Item: gray_dye
+      Model_Data: 1
+    Unlocked:
+      Item: paper
+      Model_Data: 1
